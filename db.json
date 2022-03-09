@@ -1,0 +1,115 @@
+[
+  {
+    "id": "price_1KZ4THEsYr6uG44IrnV1ctFg",
+    "title": "Aparelho de jantar",
+    "price": 219.99,
+    "sku": "sku_GBJ2Ep8246qeeT",
+    "image": "/images/presentes/aparelhoJantar.jpg",
+    "currency": "BRL"
+  },
+  {
+  "id": 1,
+  "idTest": "price_1KZ4mEEsYr6uG44IdAyYBYmj",
+  "title": "Balança Digital de Cozinha Inox",
+  "image": "/images/presentes/balancaDigital.jpg",
+  "price": 64.90,
+  "currency": "BRL"
+  },
+{
+  "id": 2,
+  "title": "Balde inox p/ gelo",
+  "image": "/images/presentes/baldeGelo.jpg",
+  "price": 45.90,
+  "currency": "BRL"
+},
+{
+  "id": 3,
+  "title": "Bandeja Espelhada Madeira",
+  "image": "/images/presentes/bandeJaEspelhada.jpg",
+  "price": 142.90,
+  "currency": "BRL"
+},
+{
+  "id": 4,
+  "title": "Batedeira",
+  "image": "/images/presentes/batedeira.webp",
+  "price": 349.90,
+  "currency": "BRL"
+},
+{
+  "id": 5,
+  "title": "Bule inox",
+  "image": "/images/presentes/bule.webp",
+  "price": 49.90,
+  "currency": "BRL"
+},
+{
+  "id": 6,
+  "title": "Cadeira Tramontina Sofia",
+  "image": "/images/presentes/cadeiraTramontina.jpg",
+  "price": 139.90,
+  "currency": "BRL"
+},
+{
+  "id": 7,
+  "title": "Café da manhã",
+  "image": "/images/presentes/cafeManha.jpg",
+  "price": 120.00,
+  "currency": "BRL"
+},
+{
+  "id": 8,
+  "title": "Cafeteira",
+  "image": "/images/presentes/cafeteira.jpg",
+  "price": 114.70,
+  "currency": "BRL"
+},
+{
+  "title": "Cafeteira Espresso",
+  "image": "/images/presentes/cafeteiraExpresso.jpg",
+  "price": 379.00,
+  "currency": "BRL"
+},
+{
+"title": "Chaleira Aço Inox",
+"image": "/images/presentes/chaleira.jpg",
+"price": 89.90,
+"currency": "BRL"
+},
+{
+"title": "Conjunto Banheiro",
+"image": "/images/presentes/conjuntoBanheiro.jpg",
+"price": 142.90,
+"currency": "BRL"
+},
+{
+  "title": "Conjunto Chá",
+  "image": "/images/presentes/ConjuntoCha.webp",
+  "price": 25.90,
+  "currency": "BRL"
+  },
+  {
+    "title": "Conjunto colxão e cama - king",
+    "image": "/images/presentes/conjuntoCama.webp",
+    "price": 849.00,
+    "currency": "BRL"
+    },
+  {
+    "title": "Conjunto 6 taças",
+    "image": "/images/presentes/conjuntoTacas.jpg",
+    "price": 129.90,
+    "currency": "BRL"
+    },
+  {
+    "title": "Conjunto Sobremesa 12 peças",
+    "image": "/images/presentes/conjuntoSobremesa.webp",
+    "price": 79.90,
+    "currency": "BRL"
+    },
+    {
+      "title": "Conjunto faca queijo 4 peças",
+      "image": "/images/presentes/conjuntoFacaQueijo.jpg",
+      "price": 35.90,
+      "currency": "BRL"
+      }
+]
