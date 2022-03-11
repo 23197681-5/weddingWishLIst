@@ -111,5 +111,11 @@
       "image": "/images/presentes/conjuntoFacaQueijo.jpg",
       "price": 35.90,
       "currency": "BRL"
+      },
+    {
+      "title": "CookTop  5 bocas",
+      "image": "/images/presentes/cooktop.jpg",
+      "price": 479.80,
+      "currency": "BRL"
       }
 ]
