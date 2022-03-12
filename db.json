@@ -85,7 +85,7 @@
 {
   "title": "Conjunto Chá",
   "image": "/images/presentes/ConjuntoCha.webp",
-  "price": 25.90,
+  "price": 59.90,
   "currency": "BRL"
   },
   {
@@ -117,5 +117,186 @@
       "image": "/images/presentes/cooktop.jpg",
       "price": 479.80,
       "currency": "BRL"
+      },
+    {
+      "title": "Cuscuzeira Inox",
+      "image": "/images/presentes/cuscuzeiraInox.jpg",
+      "price": 196.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Escorredor",
+      "image": "/images/presentes/escorredor.jpg",
+      "price": 51.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Escova Sanitária Inox",
+      "image": "/images/presentes/escovaSanitaria.jpg",
+      "price": 49.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Espremedor Inox",
+      "image": "/images/presentes/espremedor.jpg",
+      "price": 58.15,
+      "currency": "BRL"
+      },
+    {
+      "title": "Escorredor para Massa",
+      "image": "/images/presentes/escorredorMassa.jpg",
+      "price": 39.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Conjunto Conchas",
+      "image": "/images/presentes/conjutoConchas.jpg",
+      "price": 69.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Conjunto Peneiras",
+      "image": "/images/presentes/conjutoPeneira.jpg",
+      "price": 69.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Faqueiro Inox  42 Peças",
+      "image": "/images/presentes/faqueiro1.jpg",
+      "price": 139.99,
+      "currency": "BRL"
+      },
+    {
+      "title": "Conjunto de Panelas",
+      "image": "/images/presentes/conjuntoPanela.jpg",
+      "price": 349.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Saladeira Inox",
+      "image": "/images/presentes/saladeira.jpg",
+      "price": 59.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Porta Condimento",
+      "image": "/images/presentes/potesTempero.jpg",
+      "price": 119.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Forno elétrico",
+      "image": "/images/presentes/fornoEletrico.jpg",
+      "price": 399.00,
+      "currency": "BRL"
+      },
+    {
+      "title": "Moedor Manual",
+      "image": "/images/presentes/moedor.jpg",
+      "price": 113.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Pegador para Massas",
+      "image": "/images/presentes/pegadorMassas.jpg",
+      "price": 34.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Potes de Vidro Hermético",
+      "image": "/images/presentes/potesVidro.jpg",
+      "price": 119.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Porta Copos Sofá",
+      "image": "/images/presentes/portaSofa.jpg",
+      "price": 49.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Lixeira Inox",
+      "image": "/images/presentes/lixeira.jpg",
+      "price": 106.80,
+      "currency": "BRL"
+      },
+    {
+      "title": "Travessas 3 Peças",
+      "image": "/images/presentes/travessasQuadrada.jpg",
+      "price": 119.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Liquidificador",
+      "image": "/images/presentes/liquidificador.jpg",
+      "price": 179.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Mesa de Jantar",
+      "image": "/images/presentes/mesaJantar.jpg",
+      "price": 329.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Jogo de cama liso",
+      "image": "/images/presentes/jogoCamaLiso.jpg",
+      "price": 139.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Microondas",
+      "image": "/images/presentes/microondas.jpg",
+      "price": 439.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Cota passagem aérea",
+      "image": "/images/presentes/cotaPassagemAerea.jpg",
+      "price": 100.00,
+      "currency": "BRL"
+      },
+    {
+      "title": "Cota passagem aérea",
+      "image": "/images/presentes/cotaPassagemAerea2.jpg",
+      "price": 150.00,
+      "currency": "BRL"
+      },
+    {
+      "title": "Cota passagem aérea",
+      "image": "/images/presentes/cotaPassagem.jpg",
+      "price": 200.00,
+      "currency": "BRL"
+      },
+    {
+      "title": "Flores para Noiva",
+      "image": "/images/presentes/floresNoiva.jpg",
+      "price": 60.00,
+      "currency": "BRL"
+      },
+    {
+      "title": "Ferro",
+      "image": "/images/presentes/ferro.jpg",
+      "price": 124.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Toalha 4 peças",
+      "image": "/images/presentes/toalhaBranca.jpg",
+      "price": 129.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Jogo de Taças para Champagne",
+      "image": "/images/presentes/conjTacas.jpg",
+      "price": 112.90,
+      "currency": "BRL"
+      },
+    {
+      "title": "Sanduicheira",
+      "image": "/images/presentes/sanduicheira.jpg",
+      "price": 89.00,
+      "currency": "BRL"
       }
+]
 ]
